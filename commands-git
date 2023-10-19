@@ -1,2 +1,5 @@
-git clone https://github.com/Salya-said/gits-begins.git,git push origin master, git push - u origin main, git push - f origin main
-git pull origin main, git pull,git pull <remote>, git pull --rebase <remote> > commands-git
+git push origin master, git push – f, git push
+git pull origin master
+git clone
+git checkout nouvelle_branche
+git branch nom-de-la-branche
