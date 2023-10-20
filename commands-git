@@ -1,4 +1,4 @@
-git push origin master, git push – f, git push
+git add, git commit -m, git push
 git pull origin master
 git clone
 git checkout nouvelle_branche
