@@ -1,5 +1,5 @@
 git add, git commit -m, git push
 git pull origin master
 git clone
-git checkout nouvelle_branche
-git branch nom-de-la-branche
+git checkout nouvelle_branche pour basculer
+git branch nom-de la nouvelle branche
